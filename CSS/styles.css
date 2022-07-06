@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 3.5rem;
+  margin-top: 50px;
+  color: white;
+  line-height: 2;
+
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  text-align: center;
+}
+
+p {
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  color: #B20600;
+}
+
+h3 {
+  color: #11999E;
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+hr {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  color: #EAF6F6;
+  border: 10px dotted;
+  border-style: dotted none none none;
+  width: 10%;
+
+}
+
+/**********************************************************DIVS container******************************/
+
+
+/**********************************************************Class******************************/
+
+.cloud {
+  position: absolute;
+  top: 100px;
+  right: 600px;
+}
+
+.cloud1 {
+position: absolute;
+top: 500px;
+left: 400px;
+
+}
+
+.mountain {
+  padding-top: 50px;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 200px;
+  padding-bottom: 0;
+  text-align: center;
+  background-color: #FF5C58;
+}
+
+.What {
+  color: white;
+}
+
+.skills {
+  font-family: Impact, fantasy;
+}
+
+.skill-row {
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.giphy-embed {
+  width: 25%;
+  border: 0;
+  float: left;
+  margin-right: 30px;
+}
+
+.giphy-embed2 {
+  width: 25%;
+  border: 0;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile {
+  font-family: Impact, fantasy;
+}
+
+.profile-pic {
+  display: block;
+  margin: 50px auto 50px auto;
+}
+
+.btn {
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  background-color:  #66BFBF;
+  text-align: center;
+  display: inline-block;
+  color: white;
+  margin-top: 30px;
+  padding: 20px 20px;
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+
+
+.contact-me {
+  font-family: Impact, fantasy;
+  padding-bottom: 70px;
+}
+
+
+.bottom-container {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  background-color: #66BFBF;
+}
+
+
+
+.footer-link {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  color: #11999E;
+  text-decoration: none;
+
+}
+
+.bottom-name{
+  color: white;
+}
